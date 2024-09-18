@@ -1,0 +1,17 @@
+{
+  "name": "smart-room-assistant-lab02",
+  "version": "1.0.0",
+  "description": "Integrating databases to lab01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nchofon Tagha Ghogomu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0"
+  }
+}
