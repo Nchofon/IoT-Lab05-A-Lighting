@@ -1,0 +1,10 @@
+[
+    {
+        "room_name": "Room 1",
+        "room_light_status": "OFF",
+        "sec_light_status": "OFF",
+        "darkness_status": "DAYLIGHT",
+        "room_status": "NOBODY",
+        "timestamp": "2024-11-11 19:48:08"
+    }
+]
